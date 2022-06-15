@@ -56,6 +56,9 @@ Setup process:
 6.Configure Security Group
 7.Lanch.
 
+security group:
+A security group acts as a firewall for your instance to control inbound and outbound traffic.
+
 
 
 RDS:Amazon Relational Database Service (Amazon RDS) makes database configuration, management, and scaling easy in the cloud. Automate tedious tasks such as hardware provisioning, database arrangement, patching
