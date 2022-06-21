@@ -59,6 +59,12 @@ Setup process:
 IAM: IDENTITY AND ACCESS MANAGEMENT.
 ex:developer,dbadmin,networking
 modules:users,policies,Groups,Roles.
+users:the user that we create in IAM
+policies:We create policies to assign permission to a user, group, role or resource.
+Groups — The users created can also be divided into groups
+Roles — An IAM role is an IAM entity that defines a set of permissions for making AWS service requests. 
+
+Features of IAM:
 
 
 
