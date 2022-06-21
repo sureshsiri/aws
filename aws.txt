@@ -56,8 +56,18 @@ Setup process:
 6.Configure Security Group
 7.Lanch.
 
-security group:
-A security group acts as a firewall for your instance to control inbound and outbound traffic.
+IAM: IDENTITY AND ACCESS MANAGEMENT.
+ex:developer,dbadmin,networking
+modules:users,policies,Groups,Roles.
+
+
+
+
+
+
+
+
+
 
 
 
