@@ -65,11 +65,52 @@ Groups — The users created can also be divided into groups
 Roles — An IAM role is an IAM entity that defines a set of permissions for making AWS service requests. 
 
 Features of IAM:
+1.Enhanced security.ex:- control over cyberattack.
+2.Complete Control :- root has every access.
+3.Reduced Cost:- specified services are used,less bill.
+4.Improved User exp:-- less UI,more clear.
+
+types of storage in AWS:
+1.S3
+2.EBS(Elastic Block Store)
+3.EFS(Elastic File System)
+4.S3 GLACIER.
+5.STOAGE GATEWAY
+6.SNOWBALL EDGE.
+
+S3:Amazon S3 or Amazon Simple Storage Service is a service offered by Amazon Web Services that provides object storage through a web service interface.
+
+*It's the second service developed in aws.
+*max storage 5TB. free trail 5gb.
+*Static website hosting.
+*folders called as Bucket.
+*files are called as objects.
+
+
+benfits:
+1.storage scalability.
+2.Virus Protection.
+3.Availability (3 copies).(security)
+4.Storing at Cloud.(flexibility)
+5.SSD storage type.
+6.pay as you use.
+7.Versioning.
 
 
 
 
 
+
+
+
+
+
+
+
+VPC:Virtual Privare Network.
+LAN:Local Area Network
+MAN:Metro Area Network
+WAN:Wide Area Network.
 
 
 
@@ -79,7 +120,7 @@ Features of IAM:
 
 RDS:Amazon Relational Database Service (Amazon RDS) makes database configuration, management, and scaling easy in the cloud. Automate tedious tasks such as hardware provisioning, database arrangement, patching
 
-S3:Amazon S3 or Amazon Simple Storage Service is a service offered by Amazon Web Services that provides object storage through a web service interface.
+
 
 EBS:Amazon Elastic Block Store (EBS) is a high-performance block storage solution used within Amazon EC2 for throughput and transaction workloads of any size, at any time. It handles a diverse range of workloads, such as relational and non-relational databases, and enterprise applications.
 
