@@ -112,13 +112,13 @@ LAN:Local Area Network
 MAN:Metro Area Network
 WAN:Wide Area Network.
 
+subnet:A subnet, or subnetwork, is a network inside a network.
 
 
 
 
 
-
-RDS:Amazon Relational Database Service (Amazon RDS) makes database configuration, management, and scaling easy in the cloud. Automate tedious tasks such as hardware provisioning, database arrangement, patching
+RDS:Amazon Relational Database Service (Amazon RDS) makes database configuration, management, and scaling easy in the cloud. Automate tedious tasks such as hardware provisioning, database arrangement, patching.
 
 
 
